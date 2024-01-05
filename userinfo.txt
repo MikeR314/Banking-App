@@ -1,0 +1,12 @@
+mike,m1ke,1000
+kim,k1m,56533
+will,w1ll,9013.23
+sheena,sh33na,2351
+ben,8en,54368
+amy,4my,1.43
+emily,em1ly,6455
+imran,1mran,1617
+jacob,j4c0b,0
+naomi,n40mi,0
+warren,w4rren,2223
+mia,m14,2425
